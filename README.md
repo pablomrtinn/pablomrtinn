@@ -24,7 +24,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 ### 🗄️ Databases & Management
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,taiga,git,github,cmake,bash" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,planit,git,github,cmake,bash" />
   </a>
 </p>
 

@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🌙 About Me:
 
 Hi! I'm **Pablo Martín** (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC. My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for **Software Engineering** and system architecture.
 

@@ -8,6 +8,9 @@ Currently, I'm expanding my expertise in **Python**, **Qt**, and frontend techno
 
 I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories—if you find something interesting, let's connect!
 
+> [!NOTE]
+> **Repository Persistence:** Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
+
 # 📡 Find me on:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.martin160205@gmail.com)

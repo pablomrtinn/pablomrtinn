@@ -8,7 +8,7 @@ Currently, I'm expanding my expertise in **Python**, **Qt**, and frontend techno
 
 I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories—if you find something interesting, let's connect!
 
-# ⚡ Connect with me:
+# 🚀 Get in touch:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.martin160205@gmail.com)
 
 # 🛠️ My Toolbox:

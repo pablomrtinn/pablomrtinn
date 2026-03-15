@@ -46,4 +46,4 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 
 # 📊 GitHub Stats:
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo.mrtinn&show_icons=true&theme=dark&hide_border=true)
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablomrtinn&show_icons=true&theme=dark&hide_border=true)

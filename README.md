@@ -44,6 +44,14 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 🖥️ IDEs & Editors
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/NetBeans-B7178C?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
 # 🌍 Languages:
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge&logo=spain&logoColor=white)
 ![Catalan](https://img.shields.io/badge/Catalan-Native-red?style=for-the-badge&logo=catalonia&logoColor=white)

@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpablomrtinn&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vistas&edge_flat=false" align="right" />
-</div>
-
 # 🌙 About Me:
 
 Hi! I'm **Pablo Martín** (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC.
@@ -49,14 +45,6 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 
 ---
 
-# 📊 Stats & Activity:
+# 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablomrtinn&show_icons=true&theme=dark&hide_border=true" alt="Pablo's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomrtinn&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="41%" />
-</div>
-
-### 🐍 The Contribution Snake
-![Snake animation](https://github.com/pablomrtinn/pablomrtinn/blob/output/github-contribution-grid-snake.svg)
-
----
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablomrtinn&show_icons=true&theme=dark&hide_border=true)

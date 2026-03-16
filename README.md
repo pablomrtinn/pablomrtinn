@@ -12,7 +12,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 > **Repository Persistence:** Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
 
 # 📡 Find me on:
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/el-teu-usuari](https://www.linkedin.com/in/pablo-mart%C3%ADn-7879793b7/)) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.martin160205@gmail.com)
 
 # 🛠️ My Stack:

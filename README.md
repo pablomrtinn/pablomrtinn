@@ -14,7 +14,7 @@ While I still enjoy game development as a creative outlet, my primary focus is o
 
 Currently, I'm expanding my expertise in **Python** and frontend technologies (**HTML, CSS, and JavaScript**). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
 
-I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories—if you find something interesting, let's connect!
+I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories! :)
 
 > [!NOTE]
 > **Repository Persistence:** Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.

@@ -4,7 +4,7 @@ Hi! I'm **Pablo Martín** (pablo.mrtinn), a Computer Science student at EPSEVG -
 
 <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Low-level+enthusiast;Always+learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Always+learning..." alt="Typing SVG" />
   </a>
 </div>
 

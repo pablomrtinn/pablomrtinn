@@ -12,7 +12,7 @@ My journey into technology was sparked by a childhood fascination with how video
 
 While I still enjoy game development as a creative outlet, my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with **Java, C, and C++**, and I have worked on graphical projects using **OpenGL**.
 
-Currently, I'm expanding my expertise in **Python** and frontend technologies (HTML, CSS, and JavaScript). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
+Currently, I'm expanding my expertise in **Python** and frontend technologies (**HTML, CSS, and JavaScript**). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
 
 I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories—if you find something interesting, let's connect!
 

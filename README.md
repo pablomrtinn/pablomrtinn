@@ -1,6 +1,18 @@
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpablomrtinn&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Vistas&edge_flat=false" align="right" />
+</div>
+
 # 🌙 About Me:
 
-Hi! I'm **Pablo Martín** (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC. My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for **Software Engineering** and system architecture.
+Hi! I'm **Pablo Martín** (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC.
+
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Low-level+enthusiast;Always+learning..." alt="Typing SVG" />
+  </a>
+</div>
+
+My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for **Software Engineering** and system architecture.
 
 While I still enjoy game development as a creative outlet, my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with **Assembly, C, and C++**, and I have worked on graphical projects using **OpenGL**.
 
@@ -18,47 +30,33 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 # 🛠️ My Stack:
 
 ### 🚀 Core Languages & Systems
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🗄️ Databases & Management
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Taiga](https://img.shields.io/badge/Taiga-E94142?style=for-the-badge&logo=taiga&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Taiga](https://img.shields.io/badge/Taiga-E94142?style=for-the-badge&logo=taiga&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🖥️ IDEs & Editors
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-B7178C?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-B7178C?style=for-the-badge&logo=apache-netbeans&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### 👾 Graphics & UI
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### 📖 Learning Lab
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 # 🌍 Languages:
-![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge&logo=spain&logoColor=white)
-![Catalan](https://img.shields.io/badge/Catalan-Native-red?style=for-the-badge&logo=catalonia&logoColor=white)
-![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge&logo=spain&logoColor=white) ![Catalan](https://img.shields.io/badge/Catalan-Native-red?style=for-the-badge&logo=catalonia&logoColor=white) ![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)
 
-# 📊 GitHub Stats:
+---
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablomrtinn&show_icons=true&theme=dark&hide_border=true)
+# 📊 Stats & Activity:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablomrtinn&show_icons=true&theme=dark&hide_border=true" alt="Pablo's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomrtinn&layout=compact&theme=dark&hide_border=true" alt="Top Langs" width="41%" />
+</div>
+
+### 🐍 The Contribution Snake
+![Snake animation](https://github.com/pablomrtinn/pablomrtinn/blob/output/github-contribution-grid-snake.svg)
+
+---

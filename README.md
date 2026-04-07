@@ -10,7 +10,7 @@ Hi! I'm Pablo Martín (pablo.mrtinn), a Computer Science student at EPSEVG - Vil
 
 My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for Software Engineering and system architecture.
 
-While I still enjoy game development as a creative outlet—mastering Unity and C# to build interactive environments—my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with Java, C, and C++, and I have worked on graphical projects using OpenGL.
+While I still enjoy game development as a creative outlet—using Unity and C# to build interactive environments—my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with Java, C, and C++, and I have worked on graphical projects using OpenGL.
 
 Currently, I'm expanding my expertise in Python and frontend technologies (HTML, CSS, and JavaScript). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
 
@@ -22,19 +22,19 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 Repository Persistence: Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
 
 ---
-# 🌙 About Me:
+# 🌙 Sobre mi:
 
 ¡Hola! Soy Pablo Martín (pablo.mrtinn), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
 
 <div align="left">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Always+learning..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Desarrollador+full+stack;Siempre+aprendiendo..." alt="Typing SVG" />
 </a>
 </div>
 
 Mi interés por la tecnología nació de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software y la arquitectura de sistemas.
 
-Aunque disfruto del desarrollo de videojuegos como vía creativa —dominando Unity y C# para crear experiencias interactivas—, mi enfoque principal es construir software robusto y eficiente. Tengo una base sólida en programación de bajo nivel con Java, C y C++, y experiencia en proyectos gráficos utilizando OpenGL.
+Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para crear experiencias interactivas—, mi enfoque principal es construir software robusto y eficiente. Tengo una base sólida en programación de bajo nivel con Java, C y C++, y experiencia en proyectos gráficos utilizando OpenGL.
 
 Actualmente, estoy ampliando mis conocimientos en Python y tecnologías frontend (HTML, CSS y JavaScript). Mi objetivo es convertirme en un desarrollador Full-stack versátil, capaz de unir la lógica de alto rendimiento con experiencias de usuario modernas.
 

@@ -40,7 +40,7 @@ Actualmente, estoy ampliando mis conocimientos en Python y tecnologías frontend
 
 Además, cuento con conocimientos sólidos en Redes y análisis de tráfico, lo que me permite asegurar que el software que desarrollo sea eficiente tanto en su lógica interna como en su conectividad.
 
-Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Siéntete libre de explorar mis repositorios! :)
+Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres, puedes echar un vistazo a mi cuenta explorar mis repositorios sin problema! :)
 
 [!NOTE]
 Persistencia de Repositorios: Muchos de los proyectos aquí alojados han sido migrados desde mi cuenta universitaria. He decidido moverlos a mi perfil personal para asegurar su preservación, ya que las cuentas institucionales expiran tras la graduación.

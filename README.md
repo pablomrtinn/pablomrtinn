@@ -43,7 +43,3 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 
 # 🌍 Languages:
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge&logo=spain&logoColor=white) ![Catalan](https://img.shields.io/badge/Catalan-Native-red?style=for-the-badge&logo=catalonia&logoColor=white) ![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablomrtinn&show_icons=true&theme=dark&hide_border=true)

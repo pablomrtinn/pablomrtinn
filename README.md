@@ -1,6 +1,6 @@
 # 🌙 About Me:
 
-Hi! I'm Pablo Martín (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC.
+Hi! I'm Pablo Martín (pablo.mrtinn / DEVBlack_), a Computer Science student at EPSEVG - Vilanova UPC.
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Always+learning..." alt="Typing SVG" />
@@ -23,7 +23,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 
 # 🦎 Sobre mi:
 
-¡Hola! Soy Pablo Martín (pablo.mrtinn), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
+¡Hola! Soy Pablo Martín (pablo.mrtinn / DEVBlack_), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Desarrollador+full+stack;Siempre+aprendiendo..." alt="Typing SVG" />

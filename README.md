@@ -31,7 +31,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 
 Mi interés por la tecnología nació de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software y la arquitectura de sistemas.
 
-Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para crear experiencias interactivas **[Prototipos Unity](https://github.com/pablomrtinn/prototipos-unity)**—, mi enfoque principal es construir software robusto y eficiente. Tengo una base sólida en programación de bajo nivel con Java, C y C++, y experiencia en proyectos gráficos utilizando OpenGL.
+Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para crear experiencias interactivas (**[Prototipos Unity](https://github.com/pablomrtinn/prototipos-unity)**)—, mi enfoque principal es construir software robusto y eficiente. Tengo una base sólida en programación de bajo nivel con Java, C y C++, y experiencia en proyectos gráficos utilizando OpenGL.
 
 Actualmente, estoy ampliando mis conocimientos en Python y tecnologías frontend (HTML, CSS y JavaScript). Mi objetivo es convertirme en un desarrollador Full-stack versátil, capaz de unir la lógica de alto rendimiento con experiencias de usuario modernas.
 

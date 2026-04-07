@@ -22,6 +22,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 # 📡 Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-mart%C3%ADn-7879793b7/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablo.martin160205@gmail.com)
+— or reach out at **pablo.martin160205@gmail.com**
 
 # 🛠️ My Stack:
 

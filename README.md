@@ -28,7 +28,7 @@ Repository Persistence: Many of the projects hosted here have been re-uploaded f
 
 <div align="left">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Desarrollador+full+stack+en+proceso;Siempre+aprendiendo..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Desarrollador+full+stack;Siempre+aprendiendo..." alt="Typing SVG" />
 </a>
 </div>
 

@@ -14,7 +14,7 @@ While I still enjoy game development as a creative outlet, my primary focus is o
 
 Currently, I'm expanding my expertise in **Python** and frontend technologies (**HTML, CSS, and JavaScript**). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
 
-Additionally, I have strong notions of **Networking**, including traffic analysis and protocol implementation, ensuring that the software I build is efficient both in logic and connectivity.
+Additionally, I have strong notions of **Networking**, including traffic analysis, ensuring that the software I build is efficient both in logic and connectivity.
 
 I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories! :)
 

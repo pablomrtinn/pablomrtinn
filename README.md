@@ -22,7 +22,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 Repository Persistence: Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
 
 ---
-# 🌙 Sobre mi:
+# 🦎 Sobre mi:
 
 ¡Hola! Soy Pablo Martín (pablo.mrtinn), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
 

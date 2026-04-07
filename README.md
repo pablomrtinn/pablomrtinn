@@ -1,45 +1,69 @@
 # 🌙 About Me:
 
-Hi! I'm **Pablo Martín** (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC.
+Hi! I'm Pablo Martín (pablo.mrtinn), a Computer Science student at EPSEVG - Vilanova UPC.
 
 <div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Always+learning..." alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Always+learning..." alt="Typing SVG" />
+</a>
 </div>
 
-My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for **Software Engineering** and system architecture.
+My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for Software Engineering and system architecture.
 
-While I still enjoy game development as a creative outlet, my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with **Java, C, and C++**, and I have worked on graphical projects using **OpenGL**.
+While I still enjoy game development as a creative outlet—mastering Unity and C# to build interactive environments—my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with Java, C, and C++, and I have worked on graphical projects using OpenGL.
 
-Currently, I'm expanding my expertise in **Python** and frontend technologies (**HTML, CSS, and JavaScript**). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
+Currently, I'm expanding my expertise in Python and frontend technologies (HTML, CSS, and JavaScript). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
 
-Additionally, I have strong notions of **Networking**, including traffic analysis, ensuring that the software I build is efficient both in logic and connectivity.
+Additionally, I have strong notions of Networking, including traffic analysis, ensuring that the software I build is efficient both in logic and connectivity.
 
 I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories! :)
 
-> [!NOTE]
-> **Repository Persistence:** Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
+[!NOTE]
+Repository Persistence: Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
 
-# 🛠️ My Stack:
+---
+# 🌙 About Me:
 
-### 🚀 Core Languages & Systems
+¡Hola! Soy Pablo Martín (pablo.mrtinn), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
+
+<div align="left">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Full+stack+Developer;Always+learning..." alt="Typing SVG" />
+</a>
+</div>
+
+Mi interés por la tecnología nació de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software y la arquitectura de sistemas.
+
+Aunque disfruto del desarrollo de videojuegos como vía creativa —dominando Unity y C# para crear experiencias interactivas—, mi enfoque principal es construir software robusto y eficiente. Tengo una base sólida en programación de bajo nivel con Java, C y C++, y experiencia en proyectos gráficos utilizando OpenGL.
+
+Actualmente, estoy ampliando mis conocimientos en Python y tecnologías frontend (HTML, CSS y JavaScript). Mi objetivo es convertirme en un desarrollador Full-stack versátil, capaz de unir la lógica de alto rendimiento con experiencias de usuario modernas.
+
+Además, cuento con conocimientos sólidos en Redes y análisis de tráfico, lo que me permite asegurar que el software que desarrollo sea eficiente tanto en su lógica interna como en su conectividad.
+
+Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Siéntete libre de explorar mis repositorios! :)
+
+[!NOTE]
+Persistencia de Repositorios: Muchos de los proyectos aquí alojados han sido migrados desde mi cuenta universitaria. He decidido moverlos a mi perfil personal para asegurar su preservación, ya que las cuentas institucionales expiran tras la graduación.
+
+# 🛠️ My Stack / Mi stack:
+
+### 🚀 Core Languages & Systems / Lenguajes Core & Sistemas
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-00599C?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🗄️ Databases & Management
+### 🗄️ Databases & Management / Bases de Datos & Gestión
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Taiga](https://img.shields.io/badge/Taiga-E94142?style=for-the-badge&logo=taiga&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🖥️ IDEs & Editors
+### 🖥️ IDEs & Editors / IDEs & Editores
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio_Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-B7178C?style=for-the-badge&logo=apache-netbeans&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) ![Qt](https://img.shields.io/badge/Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-### 👾 Graphics & UI
+### 👾 Graphics & UI / Gráficos & UI
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### 📖 Learning Lab
+### 📖 Learning Lab / Laboratorio de Aprendizaje
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌐 Networking & Security
+### 🌐 Networking & Security / Redes & Seguridad
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![TCP/IP](https://img.shields.io/badge/TCP--IP-FF6600?style=for-the-badge&logo=google-chrome&logoColor=white)
 
-# 🌍 Languages:
+# 🌍 Languages / Idiomas
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge&logo=spain&logoColor=white) ![Catalan](https://img.shields.io/badge/Catalan-Native-red?style=for-the-badge&logo=catalonia&logoColor=white) ![English](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)

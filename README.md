@@ -40,7 +40,7 @@ Además, cuento con conocimientos sólidos en Redes y análisis de tráfico, lo 
 Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres, puedes echar un vistazo a mi cuenta explorar mis repositorios sin problema! :)
 
 > [!NOTE]
-> **Persistencia de Repositorios:** Muchos de los proyectos aquí alojados han sido migrados desde mi cuenta universitaria. He decidido moverlos a mi perfil personal para asegurar su preservación, ya que las cuentas institucionales expiran tras la graduación.
+> **Persistencia de Repositorios:** Muchos de los proyectos aquí subidos han sido migrados desde mi cuenta universitaria. He decidido moverlos a mi perfil personal para asegurar que no se pierdan, ya que las cuentas universitarias expiran tras la graduación y no es posible acceder a los proyectos realizados en la otra cuenta.
 
 ---
 

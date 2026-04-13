@@ -66,10 +66,10 @@ Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres,
 ### 🖥️ IDEs & Editors / IDEs & Editores
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white) 
 ![NetBeans](https://img.shields.io/badge/NetBeans-B7178C?style=for-the-badge&logo=apache-netbeans&logoColor=white) 
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white) 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-222222?style=for-the-badge&logo=spacex&logoColor=white)
 
 ### 👾 Graphics & UI / Gráficos & UI
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black) 
@@ -80,6 +80,7 @@ Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres,
 ### 🌐 Networking, Security & OS / Redes, Seguridad y SO
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![TCP/IP](https://img.shields.io/badge/TCP--IP-FF6600?style=for-the-badge&logo=wireshark&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 

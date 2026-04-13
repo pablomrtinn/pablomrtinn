@@ -77,9 +77,11 @@ Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres,
 ![Windows](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🌐 Networking & Security / Redes & Seguridad
+### 🌐 Networking, Security & OS / Redes, Seguridad y SO
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
 ![TCP/IP](https://img.shields.io/badge/TCP--IP-FF6600?style=for-the-badge&logo=wireshark&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 ### 📖 Learning right now / Lo que ahora estoy aprendiendo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 

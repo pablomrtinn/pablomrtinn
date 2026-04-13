@@ -26,7 +26,7 @@ I'm always looking for new challenges to grow as a software engineer. Feel free 
 ¡Hola! Soy Pablo Martín (pablo.mrtinn / DEVBlack_), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Desarrollador+full+stack;Siempre+aprendiendo..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Expandiendo+a+full+stack;Siempre+aprendiendo..." alt="Typing SVG" />
 </div>
 
 Mi interés por la tecnología nació de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software y la arquitectura de sistemas.

@@ -77,17 +77,17 @@ Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres,
 ![Windows](https://img.shields.io/badge/Windows_Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📖 Learning Lab / Laboratorio de Aprendizaje
+### 🌐 Networking & Security / Redes & Seguridad
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
+![TCP/IP](https://img.shields.io/badge/TCP--IP-FF6600?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### 📖 Learning right now / Lo que ahora estoy aprendiendo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### 🌐 Networking & Security / Redes & Seguridad
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-![TCP/IP](https://img.shields.io/badge/TCP--IP-FF6600?style=for-the-badge&logo=wireshark&logoColor=white)
 
 # 🌍 Languages / Idiomas
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge) 

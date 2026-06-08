@@ -1,47 +1,17 @@
-# 🌙 About Me:
+🦎 Sobre mí:
 
-Hi! I'm Pablo Martín (pablo.mrtinn / DEVBlack_), a Computer Science student at EPSEVG - Vilanova UPC.
+¡Hola! Soy Pablo Martín (pablomrtinn / DEVBlack_), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
 
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Software+Engineer;Expanding+to+Full+stack;Always+learning..." alt="Typing SVG" />
-</div>
+Mi interés por la tecnología nació de pequeño, de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software, la arquitectura de sistemas y la seguridad informática.
 
-My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for Software Engineering and system architecture.
+Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para construir experiencias interactivas (Prototipos Unity)—, mi enfoque principal es construir software robusto, eficiente y seguro. Cuento con una base sólida en programación con Java, C y C++.
 
-While I still enjoy game development as a creative outlet—using Unity and C# to build interactive environments (**[Unity prototypes](https://github.com/pablomrtinn/prototipos-unity)**)—my primary focus is on building robust and efficient software. I have a solid foundation in low-level programming with Java, C, and C++, and I have worked on graphical projects using OpenGL.
+Además, me estoy adentrando con fuerza en el mundo de la ciberseguridad. Gracias a mis conocimientos en redes, análisis de tráfico y lenguajes de bajo nivel, busco diseñar software que no solo sea óptimo en rendimiento, sino también resiliente ante vulnerabilidades.
 
-Currently, I'm expanding my expertise in Python and frontend technologies (HTML, CSS, and JavaScript). My goal is to become a versatile Full-stack developer, bridging the gap between high-performance logic and modern user experiences.
-
-Additionally, I have strong notions of Networking, including traffic analysis, ensuring that the software I build is efficient both in logic and connectivity.
-
-I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories! :)
+Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Siéntete libre de explorar mis repositorios! :)
 
 > [!NOTE]
-> **Repository Persistence:** Many of the projects hosted here have been re-uploaded from my university account. I have migrated them to my personal profile to ensure their preservation, as institutional accounts expire upon graduation.
-
----
-
-# 🦎 Sobre mi:
-
-¡Hola! Soy Pablo Martín (pablo.mrtinn / DEVBlack_), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
-
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Desarrollador+De+Software;Expandiendo+a+full+stack;Siempre+aprendiendo..." alt="Typing SVG" />
-</div>
-
-Mi interés por la tecnología nació de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software y la arquitectura de sistemas.
-
-Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para crear experiencias interactivas (**[Prototipos Unity](https://github.com/pablomrtinn/prototipos-unity)**)—, mi enfoque principal es construir software robusto y eficiente. Tengo una base sólida en programación de bajo nivel con Java, C y C++, y experiencia en proyectos gráficos utilizando OpenGL.
-
-Actualmente, estoy ampliando mis conocimientos en Python y tecnologías frontend (HTML, CSS y JavaScript). Mi objetivo es convertirme en un desarrollador Full-stack versátil, capaz de unir la lógica de alto rendimiento con experiencias de usuario modernas.
-
-Además, cuento con conocimientos sólidos en Redes y análisis de tráfico, lo que me permite asegurar que el software que desarrollo sea eficiente tanto en su lógica interna como en su conectividad.
-
-Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres, puedes echar un vistazo a mi cuenta explorar mis repositorios sin problema! :)
-
-> [!NOTE]
-> **Persistencia de Repositorios:** Muchos de los proyectos aquí subidos han sido migrados desde mi cuenta universitaria. He decidido moverlos a mi perfil personal para asegurar que no se pierdan, ya que las cuentas universitarias expiran tras la graduación y no es posible acceder a los proyectos realizados en la otra cuenta.
-
+> Persistencia de Repositorios: Muchos de los proyectos alojados aquí han sido migrados desde mi cuenta universitaria a mi perfil personal. De esta forma aseguro su preservación a largo plazo, ya que el acceso a las cuentas institucionales expira tras la graduación.
 ---
 
 # 🛠️ My Stack / Mi stack:
@@ -86,11 +56,6 @@ Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Si quieres,
 
 ### 📖 Learning right now / Lo que ahora estoy aprendiendo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 # 🌍 Languages / Idiomas
 ![Spanish](https://img.shields.io/badge/Spanish-Native-brightgreen?style=for-the-badge) 

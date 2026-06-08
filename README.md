@@ -4,14 +4,30 @@
 
 Mi interés por la tecnología nació de pequeño, de la curiosidad por entender cómo funcionaban los videojuegos, una fascinación que ha evolucionado hacia una verdadera pasión por la Ingeniería de Software, la arquitectura de sistemas y la seguridad informática.
 
-Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para construir experiencias interactivas (Prototipos Unity)—, mi enfoque principal es construir software robusto, eficiente y seguro. Cuento con una base sólida en programación con Java, C y C++.
+Aunque disfruto del desarrollo de videojuegos como vía creativa —usando Unity y C# para construir experiencias interactivas (Prototipos Unity)—, mi enfoque principal está en el Desarrollo Backend. Mi objetivo actual es crecer como ingeniero de backend, construyendo software robusto, eficiente y con arquitecturas sólidas. Para ello, cuento con una base firme en lenguajes como Java, C y C++.
 
-Además, me estoy adentrando con fuerza en el mundo de la ciberseguridad. Gracias a mis conocimientos en redes, análisis de tráfico y lenguajes de bajo nivel, busco diseñar software que no solo sea óptimo en rendimiento, sino también resiliente ante vulnerabilidades.
+En paralelo, me interesa enormemente el mundo de la ciberseguridad. Aprovechando mis conocimientos en redes, análisis de tráfico y programación de bajo nivel, busco especializarme en diseñar sistemas que no solo sean óptimos en rendimiento y lógica interna, sino también resilientes ante vulnerabilidades.
 
 Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Siéntete libre de explorar mis repositorios! :)
 
 > [!NOTE]
 > Persistencia de Repositorios: Muchos de los proyectos alojados aquí han sido migrados desde mi cuenta universitaria a mi perfil personal. De esta forma aseguro su preservación a largo plazo, ya que el acceso a las cuentas institucionales expira tras la graduación.
+
+Y por si acaso también quieres actualizar la versión en inglés de tu README con estos mismos cambios, te la dejo aquí adaptada:
+🌙 About Me:
+
+Hi! I'm Pablo Martín (pablomrtinn / DEVBlack_), a Computer Science student at EPSEVG - Vilanova UPC.
+
+My journey into technology was sparked by a childhood fascination with how video games worked, but that curiosity quickly evolved into a deep passion for Software Engineering, system architecture, and information security.
+
+While I still enjoy game development as a creative outlet —using Unity and C# to build interactive environments (Unity prototypes)— my primary focus is on Backend Engineering. My current goal is to grow as a backend developer, building robust, efficient software with solid architectures. To achieve this, I hold a strong foundation in languages such as Java, C, and C++.
+
+In parallel, I am highly interested in cybersecurity. Leveraging my background in networking, traffic analysis, and low-level programming, I aim to specialize in developing systems that are not only highly efficient in performance but also resilient against modern vulnerabilities.
+
+I'm always looking for new challenges to grow as a software engineer. Feel free to explore my repositories! :)
+
+> [!NOTE]
+> Repository Persistence: Many of the projects hosted here have been migrated from my university account to my personal profile. This ensures their long-term preservation, as institutional accounts expire upon graduation.
 ---
 
 # 🛠️ My Stack / Mi stack:

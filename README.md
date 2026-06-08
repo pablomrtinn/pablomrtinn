@@ -1,4 +1,4 @@
-🦎 Sobre mí:
+# 🦎 Sobre mí:
 
 ¡Hola! Soy Pablo Martín (pablomrtinn / DEVBlack_), estudiante de Ingeniería Informática en la EPSEVG - Vilanova UPC.
 
@@ -13,8 +13,7 @@ Siempre estoy en busca de nuevos retos para crecer como ingeniero. ¡Siéntete l
 > [!NOTE]
 > Persistencia de Repositorios: Muchos de los proyectos alojados aquí han sido migrados desde mi cuenta universitaria a mi perfil personal. De esta forma aseguro su preservación a largo plazo, ya que el acceso a las cuentas institucionales expira tras la graduación.
 
-Y por si acaso también quieres actualizar la versión en inglés de tu README con estos mismos cambios, te la dejo aquí adaptada:
-🌙 About Me:
+# 🌙 About Me:
 
 Hi! I'm Pablo Martín (pablomrtinn / DEVBlack_), a Computer Science student at EPSEVG - Vilanova UPC.
 
